@@ -1,0 +1,23 @@
+{
+  "name": "aulaafonso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aKarineCarmo/AulaAfonso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aKarineCarmo/AulaAfonso/issues"
+  },
+  "homepage": "https://github.com/aKarineCarmo/AulaAfonso#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
